@@ -19,8 +19,6 @@
     <string name="button_sum">+</string>
     <string name="button_calc">=</string>
     <string name="button_dot">.</string>
-    <string name="menu_clear">Clear</string>
-    <string name="menu_save_last_result">Save Last Result</string>
     <string name="save_text_noti">Your Result Saved</string>
     <string name="clear_text_noti">Your Result Clear</string>
 </resources>
